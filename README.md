@@ -4,9 +4,11 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut0sh-mishra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Skills and Experience
- <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="20" height="20"> HTML5
- <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" width="50" height="50"> Java
- <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" width="50" height="50"> Redis 
- <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot Logo" width="50" height="50"> Spring Boot
-
+ <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="30" height="30"> HTML5
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" width="50" height="50"> Java
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" width="50" height="50"> Redis
+<br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot Logo" width="50" height="50"> Spring Boot
 
