@@ -1,5 +1,5 @@
 ### Ashutosh Mishra
-A backend developer based in India. My playground? Java Spring Boot, Redis, and all things backend. Crafting robust systems and APIs is my forte. When I'm not elbow-deep in code, I'm refining architecture and optimizing performance. Let's team up and build some backend brilliance together! You can check out my Twitter at https://twitter.com/Ashut0sh_mishr and LinkedIn here.
+I'm Ashutosh from India, a coding enthusiast passionate about learning languages and frameworks such as Spring Boot and Java. I also enjoy working with JavaScript and creating frontend experiences. Check out my Twitter at Ashutosh's Twitter and connect with me on LinkedIn [here](LinkedIn link)."
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut0sh-mishra)](https://github.com/anuraghazra/github-readme-stats)
 
