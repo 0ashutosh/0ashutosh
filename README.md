@@ -13,9 +13,6 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 - <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" width="50" height="50"> **Java:** Known for its versatility and performance, Java powers the backend of our chat application, handling all the heavy lifting behind the scenes.
 - <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_spring_icon_130480.png" alt="Spring Framework Logo" width="50" height="50"> **Spring Framework:** A powerful and comprehensive framework for building enterprise-grade applications, Spring Framework provides essential features for our chat app's backend.
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/spring-boot-icon_146371.png" alt="Spring Boot Logo" width="50" height="50"> **Spring Boot:** Spring Boot makes it easy to create stand-alone, production-grade Spring-based applications with minimal setup and configuration.
-
-
-
-
+- <img src="https://slackmojis.com/emojis/1163-redis" alt="Redis Logo" width="50" height="50"> **Redis:** Redis is an open-source, in-memory data structure store used as a database, cache, and message broker.
 
 
