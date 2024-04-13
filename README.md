@@ -11,7 +11,9 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 
 # Programming Technologies
 
-![HTML](html_logo.png) ![CSS](css_logo.png) ![JavaScript](javascript_logo.png) ![Java](java_logo.png) ![Redis](redis_logo.png) ![Spring Boot](spring_boot_logo.png)
+# Programming Technologies
+
+![HTML](images/html_logo.png) ![CSS](images/css_logo.png) ![JavaScript](images/javascript_logo.png) ![Java](images/java_logo.png) ![Redis](images/redis_logo.png) ![Spring Boot](images/spring_boot_logo.png)
 
 
 
