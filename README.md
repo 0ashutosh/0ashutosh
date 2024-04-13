@@ -12,6 +12,8 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 - <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="50" height="50"> **HTML5:** The backbone of the web, HTML5 provides the structure and semantics for building modern web applications.
 - <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" width="50" height="50"> **Java:** Known for its versatility and performance, Java powers the backend of our chat application, handling all the heavy lifting behind the scenes.
 - <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" width="50" height="50"> **Redis:** Redis is an open-source, in-memory data structure store used as a database, cache, and message broker.
+- - <img src="  https://twitter.com/springboot/photo " alt="Redis Logo" width="50" height="50"> **Redis:** Redis is an open-source, in-memory data structure store used as a database, cache, and message broker.
+
 
 
 
