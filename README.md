@@ -3,7 +3,7 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashut0sh-mishra)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills and Experience
+### Skills and Experience
 ## ♨️ JAVA
 ## 🖥️ SPRING BOOT
 ## </> HTML, CSS, JS
