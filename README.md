@@ -6,7 +6,13 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 ### Skills and Experience
 ## ♨️ JAVA
 ## 🖥️ SPRING BOOT
+## Redis
 ## </> HTML, CSS, JS
+
+# Programming Technologies
+
+![HTML](html_logo.png) ![CSS](css_logo.png) ![JavaScript](javascript_logo.png) ![Java](java_logo.png) ![Redis](redis_logo.png) ![Spring Boot](spring_boot_logo.png)
+
 
 
 
