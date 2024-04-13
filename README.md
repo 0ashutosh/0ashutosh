@@ -5,10 +5,10 @@ I'm Ashutosh from India, a coding enthusiast passionate about learning languages
 
 ### Skills and Experience
  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo" width="30" height="30"> 
-<br>
+
 <img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" alt="Java Logo" width="30" height="30"> 
-<br>
+
 <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Redis_Logo.svg" alt="Redis Logo" width="30" height="30"> 
-<br>
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" alt="Spring Boot Logo" width="30" height="30"> Spring Boot
 
